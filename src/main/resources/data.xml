@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <type>FeatureCollection</type>
+    <totalFeatures>10</totalFeatures>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2248</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.33410397931035</coordinates>
+            <coordinates2>48.19414502457004</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2248</OBJECTID>
+            <ID>IM_BGA15</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 6., 7., 15. und 16. Bezirk</BEZEICHNUNG>
+            <BEZIRK>15</BEZIRK>
+            <ADRESSE>15., Gasgasse 8-10, Stiege 2, 1. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga15</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 8 bis 10 Uhr, Mittwoch von 13-15 Uhr (während der Schulzeit), Donnerstag von 13 bis
+                15 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2249</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.398478003659893</coordinates>
+            <coordinates2>48.25658100880347</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2249</OBJECTID>
+            <ID>IM_BGA21</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 21. Bezirk</BEZEICHNUNG>
+            <BEZIRK>21</BEZIRK>
+            <ADRESSE>21., Franz-Jonas-Platz 3, Stiege 2, 5. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga21</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 8 bis 10 Uhr, Montag von 17 bis 19 Uhr (während der Schulzeit), Mittwoch von 13 bis
+                15 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2250</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.434196043970736</coordinates>
+            <coordinates2>48.24263208144544</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2250</OBJECTID>
+            <ID>IM_BGA22</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 22. Bezirk</BEZEICHNUNG>
+            <BEZIRK>22</BEZIRK>
+            <ADRESSE>22., Siebeckstraße 7, Stiege 3, 2. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga22</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 13 bis 15 Uhr (während der Schulzeit), Dienstag von 13 bis 15 Uhr, Donnerstag von 8
+                bis 10 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2241</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.41098501043204</coordinates>
+            <coordinates2>48.19396805851392</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2241</OBJECTID>
+            <ID>IM_Z1030</ID>
+            <BEZEICHNUNG>MA 15 - Impfservice und reisemedizinische Beratung</BEZEICHNUNG>
+            <BEZIRK>3</BEZIRK>
+            <ADRESSE>3., Thomas-Klestil-Platz 8, Stiege 2, EG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/beratung/index.html</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag bis Freitag von 8 bis 12.30 Uhr, Donnerstag zusätzlich von 16 bis 17 Uhr (während der
+                Schulzeit)
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2242</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.37972706088791</coordinates>
+            <coordinates2>48.216661026907325</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2242</OBJECTID>
+            <ID>IM_BGA02</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 2. und 20. Bezirk</BEZEICHNUNG>
+            <BEZIRK>2</BEZIRK>
+            <ADRESSE>2., Karmelitergsse 9, 1. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga02</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 13 bis 15 Uhr, Mittwoch von 8 bis 10 Uhr, Donnerstag von 13 bis 15 Uhr (während der
+                Schulzeit)
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2243</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.388660078805405</coordinates>
+            <coordinates2>48.20148600221883</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2243</OBJECTID>
+            <ID>IM_BGA03</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 3. und 11. Bezirk</BEZEICHNUNG>
+            <BEZIRK>3</BEZIRK>
+            <ADRESSE>3., Karl-Borromäus-Platz 3, 1. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga03</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 13 bis 15 Uhr (während der Schulzeit), Dienstag von 8 bis 10 Uhr, Donnerstag von 13
+                bis 15 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2244</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.369849053102556</coordinates>
+            <coordinates2>48.19449605062866</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2244</OBJECTID>
+            <ID>IM_BGA04</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 4., 5. und 12. Bezirk</BEZEICHNUNG>
+            <BEZIRK>4</BEZIRK>
+            <ADRESSE>4., Favoritenstraße 18, 2. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga04</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Montag von 13 bis 15 Uhr (während der Schulzeit), Dienstag von 8 bis 10 Uhr, Donnerstag von 13
+                bis 15 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2245</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.350852966752512</coordinates>
+            <coordinates2>48.22174807042241</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2245</OBJECTID>
+            <ID>IM_BGA09</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 1., 8., 9., 17., 18. und 19. Bezirk</BEZEICHNUNG>
+            <BEZIRK>9</BEZIRK>
+            <ADRESSE>9., Wilhelm-Exner-Gasse 5, EG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga09</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Dienstag von 13 bis 15 Uhr, Mittwoch von 13 bis 15 Uhr (während der Schulzeit), Donnerstag von 8
+                bis 10 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2246</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.374013043214568</coordinates>
+            <coordinates2>48.178816005053115</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2246</OBJECTID>
+            <ID>IM_BGA10</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 10. Bezirk</BEZEICHNUNG>
+            <BEZIRK>10</BEZIRK>
+            <ADRESSE>10., Laxenburger Straße 43-45, 2. OG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga10</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Dienstag von 13 bis 15 Uhr, Mittwoch von 8 bis 10 Uhr, Donnerstag von 17 bis 19 Uhr (während der
+                Schulzeit)
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <features>
+        <type>Feature</type>
+        <id>IMPFSTELLEOGD.2247</id>
+        <geometry>
+            <type>Point</type>
+            <coordinates>16.301065969798643</coordinates>
+            <coordinates2>48.18802707426998</coordinates2>
+        </geometry>
+        <geometry_name>SHAPE</geometry_name>
+        <properties>
+            <OBJECTID>2247</OBJECTID>
+            <ID>IM_BGA13</ID>
+            <BEZEICHNUNG>MA 15 - Bezirksgesundheitsamt für den 13., 14. und 23. Bezirk</BEZEICHNUNG>
+            <BEZIRK>13</BEZIRK>
+            <ADRESSE>13., Hietzinger Kai 1-3, EG</ADRESSE>
+            <ORT>Wien</ORT>
+            <WEBLINK1>http://www.wien.gv.at/gesundheit/beratung-vorsorge/impfen/index.html</WEBLINK1>
+            <WEBLINK2>https://www.wien.gv.at/gesundheit/einrichtungen/gesundheitsaemter/index.html#bga13</WEBLINK2>
+            <BETREIBER>MA15</BETREIBER>
+            <IMPFZEITEN>Dienstag von 13 bis 15 Uhr, Mittwoch von 13 bis 15 Uhr (während der Schulzeit), Donnerstag von 8
+                bis 10 Uhr
+            </IMPFZEITEN>
+            <SE_ANNO_CAD_DATA null="true"/>
+        </properties>
+    </features>
+    <crs>
+        <type>name</type>
+        <properties>
+            <name>urn:ogc:def:crs:EPSG::4326</name>
+        </properties>
+    </crs>
+</root>
